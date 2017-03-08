@@ -1,0 +1,36 @@
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe.config
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.pdb
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.xml
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.frmWeightMoonMars.resources
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.Resources.resources
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.vbproj.GenerateResource.Cache
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.exe
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.xml
+I:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.pdb
+E:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe.config
+E:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.exe
+E:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.xml
+E:\co sci 808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.pdb
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe.config
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.exe
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.xml
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.pdb
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.pdb
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.xml
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.vbprojResolveAssemblyReference.cache
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.frmWeightMoonMars.resources
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.Resources.resources
+H:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.vbproj.GenerateResource.Cache
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe.config
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.exe
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.xml
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.pdb
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.exe
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.pdb
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\bin\Debug\paniaguamWeightMoonMars.xml
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.vbprojResolveAssemblyReference.cache
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.frmWeightMoonMars.resources
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.Resources.resources
+G:\co_sci_808\paniaguamWeightMoonMars\paniaguamWeightMoonMars\obj\Debug\paniaguamWeightMoonMars.vbproj.GenerateResource.Cache
